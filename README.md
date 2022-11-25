@@ -6,4 +6,4 @@ Python exploits: A bunch of python code to do various things to your device, whe
 
 Yelrach: Literally nothing, just is here, haunting Joshy
 
-Ducksn: Same
+Ducksn: Refrigerator?
