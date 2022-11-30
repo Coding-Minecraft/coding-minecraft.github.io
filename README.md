@@ -12,8 +12,13 @@ Link time!
 
 
 Audactiy Blog: https://cdjen9.wixsite.com/audacity-announcemen
+
 Audactiy link: https://discord.gg/womenareoverrated
+
 Josh's Personal page: https://github.com/JoshyJoshyJoshy
+
 Yelrach's Personal page: https://github.com/Yelrach-Oracle
+
 Vibe's Personal page: https://github.com/vibesofducks
+
 organization page: https://github.com/coding-minecraft/
