@@ -11,7 +11,7 @@ VibesOfDucks: Refrigerator?
 Link time!
 
 
-Audactiy Blog: [https://cdjen9.wixsite.com/audacity-announcemen]
+[Audactiy Blog:](https://cdjen9.wixsite.com/audacity-announcemen)
 
 Audactiy link: [https://discord.gg/womenareoverrated]
 
