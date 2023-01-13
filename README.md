@@ -1,7 +1,4 @@
-#Hi there! Welcome to our site. Feel free to look around and take any links you wish!,
-#
-#Josh.
-#
+#Hi there! Welcome to our site. Feel free to look around and take any links you wish!, Josh.
 
 Josh: I like coding, and testing network security. Bringing down servers is lots of fun. Especially my school server. Sorry Simon.
 [Link to my most current project](https://github.com/coding-minecraft/pythonexploits)
