@@ -18,4 +18,4 @@ Our moods:
 
 Joshy:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nwcjeblh7cuqmez7djjaowccyy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nwcjeblh7cuqmez7djjaowccyy&cover_image=true&theme=default&show_offline=false&background_color=ff0000&interchange=true&bar_color_cover=true&bar_color=000000)](https://github.com/kittinan/spotify-github-profile)
